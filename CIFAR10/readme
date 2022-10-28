@@ -1,0 +1,3 @@
+This folder containts two files:
+- the first one is the train of the model. I used Kaggle to execute this because it allows the usage of the GPU, and the execution endend in 8 hours
+- the second one is the experiment proposed, in this case I used Google Colab
