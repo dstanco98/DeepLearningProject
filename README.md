@@ -1,5 +1,5 @@
 # DeepLearningProject
-This is the repository that contains the project of the Deep Learning and Applied Artificial Intelligence 2021/2022 course of Sapienza University of Rome.
+This is the repository that contains the project of the Deep Learning and Applied Artificial Intelligence A.Y. 2021/2022 course of Sapienza University of Rome.
 For this project I tested the <b>group equivariant convolutional network</b> on the MNIST and CIFAR10 datasets.
 In this reposotory there are three notebooks and also the trained model for each dataset:
 - for the MNIST dataset I deployed a single notebook for training and test since Colab allows to do the both phases
